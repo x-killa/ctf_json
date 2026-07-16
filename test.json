@@ -1,13 +1,14 @@
 {
-  "title": "1",
-  "full_name": "1",
+  "title": "SSRF-TEST",
+  "full_name": "Import Test",
   "city": "1",
   "about": "1",
   "experience": "1",
-  "skills": "999",
+  "skills": "MASS_ASSIGNMENT_CHECK",
   "salary": 1,
   "contact": "12",
   "is_public": false,
   "is_vip": true,
+  "pdf_url": "http://example.com/a.pdf",
   "pdf_beta_enabled": true
 }
