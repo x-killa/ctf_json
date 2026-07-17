@@ -1,14 +1,22 @@
 {
-  "title": "SSRF-TEST",
-  "full_name": "Import Test",
-  "city": "1",
-  "about": "1",
-  "experience": "1",
-  "skills": "MASS_ASSIGNMENT_CHECK",
-  "salary": 1,
-  "contact": "12",
+  "title": "test",
+  "full_name": "test",
+  "city": "test",
+  "about": "test",
+  "experience": "test",
+  "skills": "test",
+  "salary": 5555,
+  "contact": "test",
   "is_public": false,
   "is_vip": true,
-  "pdf_url": "http://example.com/a.pdf",
-  "pdf_beta_enabled": true
+  "pdf_url": "/flag",
+  "pdf_beta_enabled": true,
+  "render": {
+    "id": "test",
+    "status": "ready",
+    "url": "/flag"
+  },
+  "user": {
+    "pdf_beta_enabled": true
+  }
 }
